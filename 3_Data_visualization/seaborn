@@ -1,0 +1,72 @@
+
+DATA VISUALIZATION : -
+
+history book - read -understand but if make it a movie -- what would you be interested in ..? 
+
+you will understand the scenerios. vry well,understand the information easily ,remember the data for long time ....etc 
+
+
+raw data - comapany growth ,expenditure etc...
+
+- > you can extract he information easily with tools ..but you have to represent it in graphicallly  if you do this you can easilyy analyze the data ,and othere who are not workin on this project they also can analyze this 
+
+
+why need data visualization ? 
+
+-> to easy understand and analyze the large data 
+
+what we do in this ..? 
+
+ -> we create graphs ,charts and analyze the data on which we want to work 
+
+
+SEABORN : - 
+
+ what is seaborn ?
+ - built on top of matplotlib 
+ - built in library by using which we can create ghraphs 
+ - so many tools and function 
+
+ list of seaborn graphs : -
+
+Different btw matplotlib and Seaborn : -
+ - reduces the code 
+ - can implement graphs easily 
+ - more tools 
+
+Dependency of Seaborn :- 
+ - python 
+ - matplotlib
+ - numpy 
+ - pandas 
+
+INstallation Seaborn :- 
+
+	pip install seaborn 
+
+	pip install matplotlib
+
+	to use the fucntion in our file or project :- 
+
+	- import matplotlib.pyplot as plt 
+
+	- import seaborn as sns 
+
+Line plot in Seaborn :- 
+
+syntax :- 
+Data = sns.load_dataset(" ")
+sns.lineplot(x=" ",y=" ",data=data)
+
+-Goto seaborn datases we get github -there we can see datasets
+- we can download them or we can use them directly using the sns.load_dataset() funtion 
+
+
+
+
+
+
+
+
+
+
